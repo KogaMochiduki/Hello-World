@@ -2,3 +2,4 @@
 
 	- feature-A
 	- zzz
+	- feature-C
